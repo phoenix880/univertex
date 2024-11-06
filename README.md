@@ -15,4 +15,3 @@
 ## Vista
 
 https://github.com/user-attachments/assets/475b0fcb-4a43-4eae-a889-6f88fd0721d4
-
